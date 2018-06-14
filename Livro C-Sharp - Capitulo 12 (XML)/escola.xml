@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="escola.xsl"?>
+<escola xmlns:xsi="http://www.w3.org/2001/XMLSchema.instance" xsi:noNamespaceSchemaLocation="escola.xsd">
+  <turma ano="9" letra="A" area="Saúde">
+    <aluno nome="Ana Rodrigues" sexo="Feminino" idade="15" />
+    <aluno nome="JoséSilva" sexo="Masculino" idade="16" />
+    <aluno nome="Ana Lopes" sexo="Feminino" idade="16" />
+    <aluno nome="Jorge Antunes" sexo="Masculino" idade="15" />
+    <aluno nome="Luis Lima" sexo="Masculino" idade="15" />
+  </turma>
+</escola>
